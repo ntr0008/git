@@ -1,0 +1,11 @@
+The terminal is an actual interface to the console that allows you can type and execute text-based commands. 
+It's a program in which you enter the actual commands your computer will process. 
+By typing commands in the Terminal, you can access files, install programs, modify programs, get information about various things.
+In coding, it is used primarily for installing specific packages, updates, export and import your work to platforms like GitHub.
+it is a way to be able to find information, manage installations and communicate with external services.
+
+Git is focused on version control and code sharing.
+while GitHub is focused on centralized source code hosting.
+
+We use GitHub because programmers can easily work together on projects because of GitHub.
+GitHub hosts Git repositories and provides developers with tools to ship better code through command line features.
